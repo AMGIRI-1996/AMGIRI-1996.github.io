@@ -4,8 +4,6 @@ title: Serving ML models into production with TorchServe
 layout: post
 tags: ["machine learning","deployment","production"]
 mathjax: true
-image: /static/img/vishal.jpg
-share-img: /static/img/vishal.jpg
 ---
 
 
